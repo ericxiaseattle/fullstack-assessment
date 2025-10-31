@@ -46,4 +46,4 @@ Then I prioritized which issues to address based on initial assumption of priori
 
 If I had additional time, I would expand from local bug-fixing into more systems level and AI/ML-powered improvements:
 -  Introduce caching layers, rate limiting for production load handling, telemetry etc.
--  AI/ML for semantic search and ranking for cache optimization, etc.
+-  AI/ML for semantic search (i.e. if users mistype URL, redirect them to suggested product page via cosine similarity or more advanced ML techniques -> Impact? Improved UX), and intelligent ranking for cache optimization, etc.
